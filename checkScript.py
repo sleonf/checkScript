@@ -5,7 +5,6 @@
 #  
 #  Copyright 2022 salvatore <salvatore@Linux>
 #
-from pickletools import markobject
 import subprocess,os,time
 
 #nv = str(input("quale nv?\n"))
